@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharani A
-- file:///C:/Users/HP/Desktop/project/github-character.htm
+- 
 
 - 👀 I’m interested in Data Analyst ...
 - 🌱 I’m currently learning Excel,SQL,Power Bi...
