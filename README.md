@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tharani A
-- 
+  
 
 - 👀 I’m interested in Data Analyst ...
 - 🌱 I’m currently learning Excel,SQL,Power Bi...
